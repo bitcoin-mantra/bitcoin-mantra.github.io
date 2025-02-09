@@ -36,3 +36,9 @@ defaults:
 
 comments:
   active: giscus      
+
+giscus:
+    repo: bitcoin-mantra/bitcoin-mantra.github.io
+    repo_id: R_kgDON2YyxQ
+    category: General
+    category_id: DIC_kwDON2Yyxc4CmyNf

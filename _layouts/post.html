@@ -26,5 +26,28 @@ layout: default
     {% include navlinks.html %}
   </div>
 
+  <!-- giscus comments -->
+ {% if page.comments %}
+ <div id="giscus_thread">
+  <script src="https://giscus.app/client.js"
+  data-repo="bitcoin-mantra/bitcoin-mantra.github.io"
+  data-repo-id="R_kgDON2YyxQ"
+  data-category="General"
+  data-category-id="DIC_kwDON2Yyxc4CmyNf"
+  data-mapping="pathname"
+  data-strict="0"
+  data-reactions-enabled="1"
+  data-emit-metadata="0"
+  data-input-position="bottom"
+  data-theme="preferred_color_scheme"
+  data-lang="en"
+  crossorigin="anonymous"
+  async>
+  </script>
+    </div>
+  {% endif %}
+  
+</div>
+
   <a class="u-url" href="{{ page.url | relative_url }}" hidden></a>
 </article>

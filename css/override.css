@@ -43,3 +43,8 @@ hr {
   font-size: 2.5em;
   opacity: 0.3;
 }
+
+.giscus_thread {
+  background-color: #fff;
+  padding: 25px 25px 25px 50px; 
+}

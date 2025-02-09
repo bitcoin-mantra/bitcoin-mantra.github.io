@@ -19,3 +19,31 @@
   </a>
   {%- endif -%}
 </div>
+<hr>
+<!-- mathjax disable -->
+{% if page.mathjax %}
+<script type="text/javascript" src="//cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
+{% endif %}
+
+<!-- giscus comments start-->
+{% if page.comments %}
+<div id="giscus_thread">
+ <script src="https://giscus.app/client.js"
+ data-repo="bitcoin-mantra/bitcoin-mantra.github.io"
+ data-repo-id="R_kgDON2YyxQ"
+ data-category="General"
+ data-category-id="DIC_kwDON2Yyxc4CmyNf"
+ data-mapping="pathname"
+ data-strict="0"
+ data-reactions-enabled="1"
+ data-emit-metadata="0"
+ data-input-position="bottom"
+ data-theme="preferred_color_scheme"
+ data-lang="en"
+ crossorigin="anonymous"
+ async>
+ </script>
+ </div>
+ {% endif %}
+
+ <!-- giscus comments ends -->

@@ -13,7 +13,7 @@ url: https://bitcoin-mantra.github.io
 #########################################################################################
 theme: "minima"
 
-rss: rss
+#rss: rss
 
 kramdown:
   syntax_highlighter_opts:
@@ -33,3 +33,6 @@ defaults:
       type: post
     values:
       tags: Other
+
+comments:
+  active: giscus      

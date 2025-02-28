@@ -148,7 +148,7 @@ Satoshi has given Bitcoin as a best gift to humanity and avoided any personal fi
 [https://decrypt.co/34810/how-many-bitcoin-does-its-inventor-satoshi-nakamoto-still-own](https://decrypt.co/34810/how-many-bitcoin-does-its-inventor-satoshi-nakamoto-still-own)
 
 ### Cypherpunks movement result in Bitcoin(2 YouTube Videos below):
-**Bitcoin and the End of History**\
+**Bitcoin and the End of History**
 >
 [![Bitcoin and the End of History](https://img.youtube.com/vi/HDKQulqVCQg/0.jpg)](https://www.youtube.com/watch?v=HDKQulqVCQg&t=6s)
 

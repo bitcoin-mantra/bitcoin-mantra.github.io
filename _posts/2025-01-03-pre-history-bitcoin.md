@@ -7,7 +7,8 @@ tags: [bitcoin, halving]
 ---
 # Part#1: ₿(Bitcoin's) History And Pre-history
 
-# YouTube Video for this article created after reader's feedback:
+# YouTube Video - same content is also available on our YouTube channel
+> [!Video]
 [![Bitcoin Pre-History](https://img.youtube.com/vi/azFx0LfuJWc/0.jpg)](https://www.youtube.com/watch?v=azFx0LfuJWc&t=6s)
 
 ## Bitcoin vs Banks

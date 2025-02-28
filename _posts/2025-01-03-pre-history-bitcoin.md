@@ -9,6 +9,8 @@ tags: [bitcoin, halving]
 
 # YouTube Video - same content is also available on our YouTube channel
 > [!Video]
+> Click Below
+ 
 [![Bitcoin Pre-History](https://img.youtube.com/vi/azFx0LfuJWc/0.jpg)](https://www.youtube.com/watch?v=azFx0LfuJWc&t=6s)
 
 ## Bitcoin vs Banks

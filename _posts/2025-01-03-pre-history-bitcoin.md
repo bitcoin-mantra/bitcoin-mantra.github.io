@@ -5,8 +5,10 @@ date: 2025-01-03 17:19:00 +0900
 categories: [Bitcoin, History]
 tags: [bitcoin, halving]
 ---
-
 # Part#1: ₿(Bitcoin's) History And Pre-history
+
+# YouTube Video for this article created after reader's feedback:
+[![Bitcoin Pre-History](https://img.youtube.com/vi/azFx0LfuJWc/0.jpg)](https://www.youtube.com/watch?v=azFx0LfuJWc&t=6s)
 
 ## Bitcoin vs Banks
 Bitcoin is the **first** decentralized cryptocurrency, utilizing blockchain technology to facilitate peer-to-peer digital transactions without the need for intermediaries like banks. Traditionally we are dependent on Banks to settle any monetary transaction and maintain the  record keeping or ledger.

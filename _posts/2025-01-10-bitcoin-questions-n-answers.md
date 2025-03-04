@@ -1,4 +1,7 @@
 # Part#3: ₿(Bitcoin) Questions and Answers, Learn More
+#  This article is now available on <em>Bitcoin Mantra</em> - YouTube Channel!
+>  
+[![Bitcoin Q&A](https://img.youtube.com/vi/ED_YKXyhe2M/0.jpg)](https://www.youtube.com/watch?v=ED_YKXyhe2M&t=6s)
 
 ## Introduction:
 Great you have made it to Part#3 of the Bitcoin series! Let's go through few important topics before we start discussing about Bitcoin investments:
